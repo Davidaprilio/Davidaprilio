@@ -6,7 +6,7 @@
 - 💬 Ask me about Web Programing | Computer Networking | Linux Server 
 - 📫 How to reach me: david1.aprilio4@gmail.com
 
-### ⌨️ Languages
+### ⌨️ Languages And Tools
 <div>
   <a href="https://www.php.net/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" />
