@@ -20,6 +20,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
   </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://user-images.githubusercontent.com/63033587/163781219-aea5f3e7-dbcd-48e9-a149-42751bbaae43.png" width="30" />
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a>  
@@ -50,3 +53,4 @@
 </div>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidaprilio)](https://github.com/Davidaprilio/github-readme-stats)
+
