@@ -1,6 +1,5 @@
-### Welcome To My Profile <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px" />
-## Hello me David Aprilio. 19 years old
-# Happy Playing Code 
+<h1 align="center">Hi <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="50px" />, I'm DavidArl</h1>
+<h3 align="center">Happy Playing Code  on Web Programming <br />  <small>19 years old from Indonesia</small></h3>
 
 - 🌱 I’m currently learning M3-Stack
 - 💬 Ask me about Web Programing | Computer Networking | Linux Server 
