@@ -24,7 +24,7 @@
     <img src="https://user-images.githubusercontent.com/63033587/163781219-aea5f3e7-dbcd-48e9-a149-42751bbaae43.png" width="30" />
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="35"/> 
 	</a>  
   <a href="https://www.linux.org/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -49,6 +49,14 @@
 	</a> 
 	<a href="https://reactjs.org/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+	</a>
+</div>
+<div>
+<a href="https://reactjs.org/" target="_blank"> 
+		<img src="https://github.com/laravel/art/blob/master/laravel-logo.png?raw=true" alt="react" width="40" height="40"/> 
+	</a>
+	<a href="https://reactjs.org/" target="_blank"> 
+		<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="react" height="40"/> 
 	</a>
 </div>
 
