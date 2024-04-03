@@ -49,6 +49,9 @@
 	<a href="https://reactjs.org/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 	</a>
+	<a href="https://go.dev" target="_blank" title="Go Programing"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="40" height="40"/> 
+	</a>
 </div>
 <div>
 <a href="https://reactjs.org/" target="_blank"> 
