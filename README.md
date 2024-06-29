@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="50px" />, I'm DavidArl</h1>
-<h3 align="center">Happy Playing Code on Web Programming <br />  <small>from Indonesia</small></h3>
+<h3 align="center">Happy Playing Code on Full Stack Programming</h3>
+<h5 align="center"><small>Full Stack Programing | Linux User</small></h5>
 
-- 🌱 I’m currently learning M3-Stack
-- 💬 Ask me about Web Programing | Computer Networking | Linux Server 
+- 🌱 I’m currently learning Rust
+- 🤖 started digging into machine learning
 - 📫 How to reach me: david1.aprilio4@gmail.com
 
 ### ⌨️ Languages And Tools
@@ -24,13 +25,13 @@
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="35"/> 
-	</a>  
+  </a>  
   <a href="https://www.linux.org/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.mongodb.com/" target="_blank"> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-	</a>
+  </a>
   <a href="https://www.mysql.com/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 	</a> 
@@ -50,15 +51,19 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 	</a>
 	<a href="https://go.dev" target="_blank" title="Go Programing"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="40" height="40"/> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 	</a>
-</div>
-<div>
-<a href="https://reactjs.org/" target="_blank"> 
-		<img src="https://github.com/laravel/art/blob/master/laravel-logo.png?raw=true" alt="react" width="40" height="40"/> 
+	<a href="https://laravel.com" target="_blank"> 
+		<img src="https://github.com/laravel/art/blob/master/laravel-logo.png?raw=true" alt="laravel" width="40" height="40"/> 
 	</a>
-	<a href="https://reactjs.org/" target="_blank"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="react" height="40"/> 
+	<a href="https://expressjs.com/" target="_blank"> 
+		<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" height="40"/> 
+	</a>
+	<a href="https://bun.sh/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="BunJS" height="40"/> 
+	</a>
+	<a href="https://hono.dev" target="_blank"> 
+		<img src="https://hono.dev/images/logo-small.png" alt="HonoJS" height="40"/> 
 	</a>
 </div>
 
